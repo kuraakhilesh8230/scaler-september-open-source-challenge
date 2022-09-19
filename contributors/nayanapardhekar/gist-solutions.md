@@ -1,3 +1,5 @@
-Gist for Software development related topic :- (https://gist.github.com/nayanapardhekar/5255dc969e13498f28475bce7330ba16)
+#file git-solutions
 
-Gist for Code snippet :- (https://gist.github.com/nayanapardhekar/3832086fbcdb66827aec47c3f15fcf1b)
+[Gist for Software development related topic :-] (https://gist.github.com/nayanapardhekar/5255dc969e13498f28475bce7330ba16)
+
+[Gist for Code snippet :-] (https://gist.github.com/nayanapardhekar/3832086fbcdb66827aec47c3f15fcf1b)
